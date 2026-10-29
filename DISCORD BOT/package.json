@@ -1,0 +1,24 @@
+{
+  "name": "elite-vision-global-discord-crm",
+  "version": "1.0.0",
+  "description": "ELITE VISION GLOBAL - Discord Community Research & Customer Management Suite",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node server/index.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "keywords": [
+    "discord",
+    "iptv",
+    "crm",
+    "reseller",
+    "rebranding",
+    "streaming",
+    "elite-vision-global"
+  ],
+  "author": "ELITE VISION GLOBAL",
+  "license": "MIT"
+}
